@@ -18,6 +18,7 @@ Este repositório contém uma API de **classificação de sinais de Libras**. In
 ├── requirements.txt            # Dependências
 ├── README.md                   # Documentação
 └── model_weights.pth           # Pesos do classificador
+└── Notebook                    # Notebook produzido pela GoIas caso queira reproduzir a análise
 
 ```
 
